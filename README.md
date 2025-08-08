@@ -1,4 +1,6 @@
-<h1 align="center">Hi ✌️😎, I'm Yashas PG</h1>
+<h1 align="center">
+  <img src="https://i.imgur.com/6E2hA9g.gif" width="600"/>
+  Hi ✌️😎, I'm Yashas PG</h1>
 <h3 align="center">Actively building my software development foundation with hands-on projects.</h3>
 
 - 🌱 I’m currently learning **complete machine learning pipeline**
