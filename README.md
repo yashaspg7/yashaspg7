@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashas PG</h1>
+<h1 align="center">Hi ✌️😎, I'm Yashas PG</h1>
 <h3 align="center">Actively building my software development foundation with hands-on projects.</h3>
 
 - 🌱 I’m currently learning **complete machine learning pipeline**
